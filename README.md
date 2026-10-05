@@ -32,19 +32,19 @@
 
 ## 仓库结构
 
-### [Snippets](app://-/snippets/)
+### [Snippets](snippets/README.md)
 
 小型、相对独立、可直接复用的工程配置、规范或知识片段。
 
 可能包括 Git、CMake、编译器、调试、代码格式、开发环境等方面的工程实践。
 
-### [Components](app://-/components/)
+### [Components](components/README.md)
 
 从真实项目中逐渐抽象出的可复用工程组件。
 
 只有当某类功能的职责、接口和行为已经相对稳定，并且具有明确复用价值时，才适合沉淀为组件。
 
-### [Templates](app://-/templates/)
+### [Templates](templates/README.md)
 
 经过实际项目验证，可以直接作为新项目起点使用的完整工程骨架。
 
